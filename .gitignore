@@ -1,0 +1,4 @@
+.vscode
+# Arquivos binários/executáveis gerados pelo compilador
+*.exe
+*.out
